@@ -1,0 +1,13 @@
+name: werwolf
+title: werwolf
+username:
+account: buhr
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3670756
+bundleId: 4249994
+url: https://buhr.shinyapps.io/werwolf/
+when: 1613862897.12271
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .Rprofile
